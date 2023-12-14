@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Abhinav!
-- 👀 I’m interested in learning technology that can change the world for good.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on other open source projects.
 - 📫 imabhinavborah@gmail.com
 
 <!---
