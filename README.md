@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Abhinav</h1>
+# Hi I'm Abhinav :)
 
 - 📫 imabhinavborah@gmail.com
 - X: [@abhinavexists](https://twitter.com/abhinavexists)
