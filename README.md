@@ -1,6 +1,4 @@
 # Hi I'm Abhinav :)
-- 📫 imabhinavborah@gmail.com
-- X: [@abhinavexists](https://twitter.com/abhinavexists)
 
 
 <!---
