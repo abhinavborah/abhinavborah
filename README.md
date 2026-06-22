@@ -2,12 +2,19 @@
 
 <img src="https://tenor.com/view/xavier-renegade-angel-xra-xavier-frittata-computer-gif-2053110599097806208.gif">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhinavborah&left_text=visitors&left_color=%23282828&right_color=%23fabd2f&logo=github&radius=5)
+## brief
 
-## about
+| _INTERESTS_ | | | |
+| :---- | :---- | :---- | :---- |
+| systems | agent harness | context engineering | scalability |
+| _**DAILY DRIVERS**_ | | | |
+| nvim | tmux | hermes | asahi_linux + macOS |
+| _**LANG**_ | | | |
+| bash | c++ | rust | typescript |
 
-| req | res |
-| :--- | :--- |
-| **get_in_touch** | [imabhinavborah@gmail.com](mailto:imabhinavborah@gmail.com) |
-| **my_ramblings** | [abhinavborah.com](https://abhinavborah.com/) |
-| **my_linkedin** | [abhinavborah](https://www.linkedin.com/in/abhinavborah/) |
+## links
+
+[![](https://img.shields.io/badge/links-imabhinavborah@gmail.com-custom?style=flat-square&label=write-to&labelColor=282828&color=fabd2f)](mailto:imabhinavborah@gmail.com)
+[![](https://img.shields.io/badge/links-abhinavborah-custom?style=flat-square&label=LinkedIn&labelColor=282828&color=458588)](https://www.linkedin.com/in/abhinavborah/)
+[![](https://img.shields.io/badge/links-abhinavborah.com-custom?style=flat-square&label=blog&labelColor=282828&color=98971a)](https://www.abhinavborah.com)
+
