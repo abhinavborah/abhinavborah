@@ -17,4 +17,4 @@
 [![](https://img.shields.io/badge/links-imabhinavborah@gmail.com-custom?style=flat-square&label=write-to&labelColor=282828&color=fabd2f)](mailto:imabhinavborah@gmail.com)
 [![](https://img.shields.io/badge/links-abhinavborah-custom?style=flat-square&label=LinkedIn&labelColor=282828&color=458588)](https://www.linkedin.com/in/abhinavborah/)
 [![](https://img.shields.io/badge/links-abhinavborah.com-custom?style=flat-square&label=blog&labelColor=282828&color=98971a)](https://www.abhinavborah.com)
-
+[![](https://img.shields.io/badge/links-abhinavexists-custom?style=flat-square&label=x&labelColor=282828&color=cc241d)](https://twitter.com/abhinavexists)
