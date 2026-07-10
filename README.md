@@ -12,6 +12,17 @@
 | _**LANG**_ | | | |
 | bash | c++ | rust | typescript |
 
+## stats
+
+<div align="left">
+  <a href="https://commit-history.com/abhinavborah">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/abhinavborah?theme=dark" />
+      <img alt="abhinavborah's commit history" src="https://commit-history.com/embed/abhinavborah" />
+    </picture>
+  </a>
+</div>
+
 ## links
 
 [![](https://img.shields.io/badge/links-imabhinavborah@gmail.com-custom?style=flat-square&label=write-to&labelColor=282828&color=fabd2f)](mailto:imabhinavborah@gmail.com)
