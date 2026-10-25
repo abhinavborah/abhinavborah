@@ -8,7 +8,7 @@
 | :---- | :---- | :---- | :---- |
 | systems | agent harness | context engineering | scalability |
 | _**DAILY DRIVERS**_ | | | |
-| nvim | tmux | hermes | asahi_linux + macOS |
+| nvim | tmux | cc | asahi_linux + macOS |
 | _**LANG**_ | | | |
 | bash | c++ | rust | typescript |
 
